@@ -4,7 +4,7 @@
   <img src="https://github.com/Jayram-Dhawal/Jayram-Dhawal/blob/main/Banner.jpg" alt="Jayram Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">I am a passionate DevOps Engineer. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@cloudaitech" target="_blank">CloudAITech</a></h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
