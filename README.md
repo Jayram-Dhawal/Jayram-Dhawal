@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Jayram Dhawal</h1>
 
 <div align="center">
-  <img src="https://github.com/Jayram-Dhawal/Jayram-Dhawal/blob/main/Banner.png" alt="Jayram Banner">
+  <img src="https://github.com/Jayram-Dhawal/Jayram-Dhawal/blob/main/BANNER.png" alt="Jayram Banner">
 </div>
 
 <h3 align="center">I am a passionate DevOps Engineer. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@cloudaitech" target="_blank">CloudAITech</a></h3>
